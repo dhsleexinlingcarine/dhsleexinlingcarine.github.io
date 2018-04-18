@@ -1,13 +1,31 @@
 <!DOCTYPE html>
 <html>
 
- h1{font-family: verdana;
-  color:light blue;}
+<head>
+<link rel="stylesheet" href="/style.css" />
+<title>My Website<3</title>
+</head>
+
+<body>
+h1{
+
+  font-family: verdana;
+  color:blue;
+}
 
  h2{
   font-family: verdana;
-  color:light blue;}
+  color:blue;
+}
 
-p{font-family: verdana;}
+p{
+ font-family: verdana;
+}
 
-body {background-color: #ff6666;}
+body {
+    background-color: #99ccff;
+}
+
+
+
+ 
